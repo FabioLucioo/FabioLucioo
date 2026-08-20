@@ -12,11 +12,11 @@ Me chamo Fábio Lúcio, tenho 25 anos e sou natural do Rio Janeiro. Atualmente, 
         title="Instagram"
         src="https://img.shields.io/badge/Instagram-@fabiolc__021-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     />
-    <a href="https://www.linkedin.com/in/f%C3%A1bio-l%C3%BAcio/">
+<a href="https://www.linkedin.com/in/f%C3%A1bio-l%C3%BAcio/">
     <img
-        alt="Linkedin"
-        title="Linkedin"
-        src="https://img.shields.io/badge/Linkedin-Fábio lúcio-05599F?style=for-the-badge&logo=instagram&logoColor=white"
+        alt="LinkedIn"
+        title="LinkedIn"
+        src="https://img.shields.io/badge/LinkedIn-Fábio%20Lúcio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     />
 </a>
 
