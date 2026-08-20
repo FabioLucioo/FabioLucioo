@@ -2,15 +2,17 @@
 
 **`Desenvolvedor e Analista de Sistemas`**
 
-Tenho 25 anos e sou natural do Rio Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na IBMR. Sou fascinado por tecnologia.
+Me chamo Fábio Lúcio, tenho 25 anos e sou natural do Rio Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na IBMR. Sou fascinado por tecnologia.
 
 🎯 Profissional movido pela curiosidade, aprendizado contínuo e busca constante por evolução pessoal e profissional.
 <p align="left">
     <a href="https://www.instagram.com/fabiolc_021/">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+    <img
+        alt="Instagram"
+        title="Instagram"
+        src="https://img.shields.io/badge/Instagram-@fabiolc__021-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    />
+</a>
 
 ---
 
