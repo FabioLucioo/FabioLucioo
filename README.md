@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Fábio Lúcio
 
-### **`Desenvolvedor e Analista de Sistemas`**
+**`Desenvolvedor e Analista de Sistemas`**
 
 Me chamo Fábio Lúcio, tenho 25 anos e sou natural do Rio Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na IBMR. Sou fascinado por tecnologia.
 
@@ -26,19 +26,35 @@ Me chamo Fábio Lúcio, tenho 25 anos e sou natural do Rio Janeiro. Atualmente, 
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Excel" 
+    title="Excel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://img.icons8.com/color/48/microsoft-excel-2019.png" 
+/>
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/power-bi.png" 
+/>
+<img 
+    align="left" 
+    alt="PyCharm" 
+    title="PyCharm"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/pycharm.png" 
 />
 <img 
     align="left" 
@@ -56,6 +72,31 @@ Me chamo Fábio Lúcio, tenho 25 anos e sou natural do Rio Janeiro. Atualmente, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
 />
+<img 
+    align="left" 
+    alt="Kali Linux" 
+    title="Kali Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.kali.org/images/kali-linux-logo.svg"
+/>
+<img 
+    align="left" 
+    alt="Nmap" 
+    title="Nmap"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://nmap.org/images/sitelogo.png" 
+/>
+<img 
+    align="left" 
+    alt="VS Code" 
+    title="VS Code"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
+/>
+
 <br/>
 
 <br/>
