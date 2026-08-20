@@ -4,7 +4,7 @@
 
 Me chamo Fábio Lúcio, tenho 25 anos e sou natural do Rio Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na IBMR. Sou fascinado por tecnologia.
 
-🎯 Profissional movido pela curiosidade, aprendizado contínuo e busca constante por evolução pessoal e profissional.
+🎯 Movido pela curiosidade, aprendizado contínuo e busca constante por evolução pessoal e profissional.
 <p align="left">
     <a href="https://www.instagram.com/fabiolc_021/">
     <img
