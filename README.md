@@ -1,10 +1,9 @@
-# 👨🏻‍💻 Fábio Lúcio
+# 👨🏻‍💻 Fábio Lúcio        25y       Rio Janeiro
 
 **`Desenvolvedor e Analista de Sistemas`**
 
-Me chamo Fábio Lúcio, tenho 25 anos e sou natural do Rio Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na IBMR. Sou fascinado por tecnologia.
+Sempre existe algo novo para aprender e eu gosto justamente dessa parte da jornada.
 
-🎯 Movido pela curiosidade, aprendizado contínuo e busca constante por evolução pessoal e profissional.
 <p align="left">
     <a href="https://www.instagram.com/fabiolc_021/">
     <img
