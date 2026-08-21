@@ -108,10 +108,9 @@ Me chamo Fábio Lúcio, tenho 25 anos e sou natural do Rio Janeiro. Atualmente, 
     alt="GitHub Profile Summary"
     width="650"
   />
-
-  -attachments/assets/eb0c1753-b313-48eb-94c0-cf9b2ed2a22d"
+  <img
+    src="https://github.com/user-attachments/assets/eb0c1753-b313-48eb-94c0-cf9b2ed2a22d"
     alt="lineas deteccion"
     width="150"
-    height="150"
   />
 </p>
