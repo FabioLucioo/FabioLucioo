@@ -1,5 +1,5 @@
 # 👨🏻‍💻 Fábio Lúcio        
-    25y       📌Rio Janeiro
+
 **`Desenvolvedor e Analista de Sistemas`**
 
 Sempre existe algo novo para aprender e eu gosto justamente dessa parte da jornada.
