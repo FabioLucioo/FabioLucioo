@@ -1,6 +1,5 @@
 # 👨🏻‍💻 Fábio Lúcio        
-25y       
-📌Rio Janeiro
+                                                                    25y       📌Rio Janeiro
 
 **`Desenvolvedor e Analista de Sistemas`**
 
