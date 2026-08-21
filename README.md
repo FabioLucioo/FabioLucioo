@@ -1,7 +1,8 @@
-# 👨🏻‍💻 Fábio Lúcio        25y       Rio Janeiro
-
+# 👨🏻‍💻 Fábio Lúcio        
+25y       
+📌Rio Janeiro
 **`Desenvolvedor e Analista de Sistemas`**
-
+25y       Rio Janeiro
 Sempre existe algo novo para aprender e eu gosto justamente dessa parte da jornada.
 
 <p align="left">
