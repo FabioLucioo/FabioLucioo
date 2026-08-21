@@ -1,3 +1,4 @@
+<img width="150" height="150" alt="lineas deteccion" src="https://github.com/user-attachments/assets/eb0c1753-b313-48eb-94c0-cf9b2ed2a22d" />
 # 👨🏻‍💻 Fábio Lúcio
 
 **`Desenvolvedor e Analista de Sistemas`**
